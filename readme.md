@@ -10,6 +10,7 @@ We are using :
 * `MapBox` for the map
 * `ip-api.com` for geolocation
 * `electron-builder` for building the application !
+* `Freepik or SVG Repo` for the pins images. 
 Coded by Oxey405 !
 ## Terms of privacy and security
 (including all the terms of privacy of the APIs)
