@@ -1,0 +1,31 @@
+{
+  "name": "viewmaps",
+  "version": "1.0.0",
+  "description": "Viewmaps is a free and open-source map viewer for Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron .",
+    "dist": "build --linux snap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oxey405/ViewMaps.git"
+  },
+  "keywords": [
+    "maps",
+    "viewmaps",
+    "location"
+  ],
+  "author": "Oxey405",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Oxey405/ViewMaps/issues"
+  },
+  "homepage": "https://github.com/Oxey405/ViewMaps#readme",
+  "dependencies": {
+    "electron": "^12.0.2",
+    "electron-builder": "^22.10.5",
+    "mapbox-gl": "^2.2.0",
+    "ol": "^6.5.0"
+  }
+}
