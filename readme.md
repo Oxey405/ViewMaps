@@ -15,6 +15,7 @@ Coded by Oxey405 !
 (including all the terms of privacy of the APIs)
 ### From ip-api.com
 Terms of privacy from ip-api.com [see here](https://ip-api.com/docs/legal) : 
+> ## Data
 > We use multiple sources for populating our database, including BGP, RIR, ISP
 > and data sharing agreements, geofeeds and latency-based tracking.
 > For some IP ranges we fallback to GeoLite2 data created by MaxMind, available from www.maxmind.com
