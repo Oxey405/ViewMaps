@@ -32,8 +32,4 @@ Terms of privacy from MapBox [see here](https://www.mapbox.com/legal/privacy)
 We collect :
 * Your IP
 * Your geolocalisation
-<<<<<<< HEAD
-But we don't store it in any case !
-=======
-But we don't store it in any case !
->>>>>>> 64e6884c4d9cbcc0ce057c11ce3a9bdebabedfef
+But we don't store anything in any cases
